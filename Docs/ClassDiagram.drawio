@@ -144,7 +144,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8jOK560WkgH_5pLmFle-4" parent="e8jOK560WkgH_5pLmFle-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- instance:&amp;nbsp;MainAppMenu" vertex="1">
+        <mxCell id="e8jOK560WkgH_5pLmFle-4" parent="e8jOK560WkgH_5pLmFle-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;u&gt;- instance:&amp;nbsp;MainAppMenu&lt;/u&gt;" vertex="1">
           <mxGeometry height="25.2972972972973" width="176.9" y="26" as="geometry" />
         </mxCell>
         <mxCell id="e8jOK560WkgH_5pLmFle-5" parent="e8jOK560WkgH_5pLmFle-3" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
@@ -165,7 +165,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8jOK560WkgH_5pLmFle-8" parent="e8jOK560WkgH_5pLmFle-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- instance:&amp;nbsp;CreateNewBankAccountMenu" vertex="1">
+        <mxCell id="e8jOK560WkgH_5pLmFle-8" parent="e8jOK560WkgH_5pLmFle-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;u&gt;- instance:&amp;nbsp;CreateNewBankAccountMenu&lt;/u&gt;" vertex="1">
           <mxGeometry height="25.2972972972973" width="294.48" y="26" as="geometry" />
         </mxCell>
         <mxCell id="e8jOK560WkgH_5pLmFle-27" parent="e8jOK560WkgH_5pLmFle-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- loggedinUsername: String" vertex="1">
@@ -189,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8jOK560WkgH_5pLmFle-12" parent="e8jOK560WkgH_5pLmFle-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- instance:&amp;nbsp;BankUserRegisterMenu" vertex="1">
+        <mxCell id="e8jOK560WkgH_5pLmFle-12" parent="e8jOK560WkgH_5pLmFle-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;u&gt;- instance:&amp;nbsp;BankUserRegisterMenu&lt;/u&gt;" vertex="1">
           <mxGeometry height="25.2972972972973" width="228.97" y="26" as="geometry" />
         </mxCell>
         <mxCell id="e8jOK560WkgH_5pLmFle-13" parent="e8jOK560WkgH_5pLmFle-11" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
@@ -210,7 +210,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8jOK560WkgH_5pLmFle-16" parent="e8jOK560WkgH_5pLmFle-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- instance: BankUserLoginMenu" vertex="1">
+        <mxCell id="e8jOK560WkgH_5pLmFle-16" parent="e8jOK560WkgH_5pLmFle-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;u&gt;- instance: BankUserLoginMenu&lt;/u&gt;" vertex="1">
           <mxGeometry height="25.2972972972973" width="217.24137931034485" y="26" as="geometry" />
         </mxCell>
         <mxCell id="e8jOK560WkgH_5pLmFle-17" parent="e8jOK560WkgH_5pLmFle-15" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
@@ -231,7 +231,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8jOK560WkgH_5pLmFle-20" parent="e8jOK560WkgH_5pLmFle-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- instance: AccountManageMenu" vertex="1">
+        <mxCell id="e8jOK560WkgH_5pLmFle-20" parent="e8jOK560WkgH_5pLmFle-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;u&gt;- instance: AccountManageMenu&lt;/u&gt;" vertex="1">
           <mxGeometry height="25.2972972972973" width="300.00000000000006" y="26" as="geometry" />
         </mxCell>
         <mxCell id="e8jOK560WkgH_5pLmFle-28" parent="e8jOK560WkgH_5pLmFle-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- username: String" vertex="1">
@@ -258,7 +258,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8jOK560WkgH_5pLmFle-24" parent="e8jOK560WkgH_5pLmFle-23" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- instance:&amp;nbsp;MainBankUserMenu" vertex="1">
+        <mxCell id="e8jOK560WkgH_5pLmFle-24" parent="e8jOK560WkgH_5pLmFle-23" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;u&gt;- instance:&amp;nbsp;MainBankUserMenu&lt;/u&gt;" vertex="1">
           <mxGeometry height="25.2972972972973" width="240" y="26" as="geometry" />
         </mxCell>
         <mxCell id="e8jOK560WkgH_5pLmFle-25" parent="e8jOK560WkgH_5pLmFle-23" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
@@ -340,6 +340,42 @@
       <root>
         <mxCell id="Qiqlx4XD7Zx0jJSsnxzv-0" />
         <mxCell id="Qiqlx4XD7Zx0jJSsnxzv-1" parent="Qiqlx4XD7Zx0jJSsnxzv-0" />
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-0" parent="Qiqlx4XD7Zx0jJSsnxzv-1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Service Layer" vertex="1">
+          <mxGeometry height="360" width="890" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-1" parent="Qiqlx4XD7Zx0jJSsnxzv-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IServive&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getBankUser(String): IResponse&amp;lt;UserDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ registerNewBankUser(String, String, String, String, String): IResponse&amp;lt;UserDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ removeBankUser(String, String): IResponse&amp;lt;Boolean&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ loginBankUser(String, String): IResponse&amp;lt;UserDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ logoutBankUser(String): IResponse&amp;lt;UserDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ withdrawMoney(double, String, long): IResponse&amp;lt;AccountDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ depositMoney(double, String, long): IResponse&amp;lt;AccountDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ transferMoney(double, String, long, long): IResponse&amp;lt;AccountDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ openNewBankAccount(String): IResponse&amp;lt;AccountDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ closeBankAccount(String, String, long): IResponse&amp;lt;AccountDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getBankAccount(String, long): IResponse&amp;lt;AccountDto&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getAllBankAccounts(String): IResponse&amp;lt;ArrayList&amp;lt;Long&amp;gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="260" width="450" x="50" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-2" parent="Qiqlx4XD7Zx0jJSsnxzv-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Service" vertex="1">
+          <mxGeometry height="164" width="270" x="600" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-11" edge="1" parent="gDr4XSBrvqt-WLxyOK6P-2" source="gDr4XSBrvqt-WLxyOK6P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="gDr4XSBrvqt-WLxyOK6P-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="39" />
+              <mxPoint x="290" y="-40" />
+              <mxPoint x="203" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-3" parent="gDr4XSBrvqt-WLxyOK6P-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;u&gt;- instance: Service&lt;/u&gt;" vertex="1">
+          <mxGeometry height="26" width="270" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-6" parent="gDr4XSBrvqt-WLxyOK6P-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- userController: IUserController" vertex="1">
+          <mxGeometry height="26" width="270" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-7" parent="gDr4XSBrvqt-WLxyOK6P-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- accountController IAccountController" vertex="1">
+          <mxGeometry height="26" width="270" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-9" parent="gDr4XSBrvqt-WLxyOK6P-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- logger: ILogger" vertex="1">
+          <mxGeometry height="26" width="270" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-4" parent="gDr4XSBrvqt-WLxyOK6P-2" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="270" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gDr4XSBrvqt-WLxyOK6P-5" parent="gDr4XSBrvqt-WLxyOK6P-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ getInstance(): Service" vertex="1">
+          <mxGeometry height="26" width="270" y="138" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
