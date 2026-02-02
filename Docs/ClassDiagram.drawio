@@ -745,7 +745,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="utils" id="TgDB0d9YSyU8lvrLL6zz">
-    <mxGraphModel dx="1965" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="P4NfdKaVbRbm57oWEp5Z-0" />
         <mxCell id="P4NfdKaVbRbm57oWEp5Z-1" parent="P4NfdKaVbRbm57oWEp5Z-0" />
@@ -770,8 +770,8 @@
         <mxCell id="1PX7xMsZZiHY3XKj42xi-32" parent="P4NfdKaVbRbm57oWEp5Z-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ICredentialsValidator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- validatePassword(String): boolean&lt;br&gt;- validateUsername(String):boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- validateName(String, String): boolean&lt;/p&gt;" vertex="1">
           <mxGeometry height="100.33" width="228.1" x="42.21999999999997" y="104.32999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="1PX7xMsZZiHY3XKj42xi-49" parent="P4NfdKaVbRbm57oWEp5Z-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IAccountDataValidator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- validateAccountId(long): boolean&lt;/p&gt;" vertex="1">
-          <mxGeometry height="70" width="227.78" x="42.54" y="238" as="geometry" />
+        <mxCell id="1PX7xMsZZiHY3XKj42xi-49" parent="P4NfdKaVbRbm57oWEp5Z-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IAccountDataValidator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- validateAccountId(long): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-&amp;nbsp;validateBalance(double): boolean&lt;/p&gt;" vertex="1">
+          <mxGeometry height="82" width="227.78" x="42.54" y="238" as="geometry" />
         </mxCell>
         <mxCell id="1PX7xMsZZiHY3XKj42xi-50" parent="P4NfdKaVbRbm57oWEp5Z-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ITransactionDataValidator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- validateAmount(double): boolean&lt;/p&gt;" vertex="1">
           <mxGeometry height="70" width="227.78" x="42.54" y="368" as="geometry" />
