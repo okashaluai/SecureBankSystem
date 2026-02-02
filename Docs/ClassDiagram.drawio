@@ -540,7 +540,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Data Access Layer" id="7D560qwCkaUvCvzSz4W4">
-    <mxGraphModel dx="1426" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BTwrhteY219l-eWVVQmK-0" />
         <mxCell id="BTwrhteY219l-eWVVQmK-1" parent="BTwrhteY219l-eWVVQmK-0" />
@@ -551,7 +551,7 @@
           <mxGeometry height="300" width="480" x="20" y="-1100" as="geometry" />
         </mxCell>
         <mxCell id="TElpzQ37EK2GMEdwH02I-2" parent="BTwrhteY219l-eWVVQmK-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Repository" vertex="1">
-          <mxGeometry height="320" width="280" x="510" y="-1070" as="geometry" />
+          <mxGeometry height="346" width="280" x="510" y="-1070" as="geometry" />
         </mxCell>
         <mxCell id="TElpzQ37EK2GMEdwH02I-21" edge="1" parent="TElpzQ37EK2GMEdwH02I-2" source="TElpzQ37EK2GMEdwH02I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="TElpzQ37EK2GMEdwH02I-2">
           <mxGeometry relative="1" as="geometry">
@@ -568,35 +568,38 @@
         <mxCell id="TElpzQ37EK2GMEdwH02I-8" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- url: String" vertex="1">
           <mxGeometry height="26" width="280" y="52" as="geometry" />
         </mxCell>
+        <mxCell id="qUedNbtmir9V8yc6M9MR-0" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- crypto: ICrypto" vertex="1">
+          <mxGeometry height="26" width="280" y="78" as="geometry" />
+        </mxCell>
         <mxCell id="TElpzQ37EK2GMEdwH02I-4" parent="TElpzQ37EK2GMEdwH02I-2" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
-          <mxGeometry height="8" width="280" y="78" as="geometry" />
+          <mxGeometry height="8" width="280" y="104" as="geometry" />
         </mxCell>
         <mxCell id="TElpzQ37EK2GMEdwH02I-5" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ getInstance(): Repository" vertex="1">
-          <mxGeometry height="26" width="280" y="86" as="geometry" />
-        </mxCell>
-        <mxCell id="TElpzQ37EK2GMEdwH02I-14" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- init(): void" vertex="1">
           <mxGeometry height="26" width="280" y="112" as="geometry" />
         </mxCell>
-        <mxCell id="TElpzQ37EK2GMEdwH02I-7" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- createConnectedUsersTable(): void" vertex="1">
+        <mxCell id="TElpzQ37EK2GMEdwH02I-14" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- init(): void" vertex="1">
           <mxGeometry height="26" width="280" y="138" as="geometry" />
         </mxCell>
-        <mxCell id="TElpzQ37EK2GMEdwH02I-16" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- createAccountsTable(): void" vertex="1">
+        <mxCell id="TElpzQ37EK2GMEdwH02I-7" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- createConnectedUsersTable(): void" vertex="1">
           <mxGeometry height="26" width="280" y="164" as="geometry" />
         </mxCell>
-        <mxCell id="TElpzQ37EK2GMEdwH02I-15" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- createUsersTable(): void" vertex="1">
+        <mxCell id="TElpzQ37EK2GMEdwH02I-16" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- createAccountsTable(): void" vertex="1">
           <mxGeometry height="26" width="280" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="TElpzQ37EK2GMEdwH02I-17" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- createTransactionsTables(): void" vertex="1">
+        <mxCell id="TElpzQ37EK2GMEdwH02I-15" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- createUsersTable(): void" vertex="1">
           <mxGeometry height="26" width="280" y="216" as="geometry" />
         </mxCell>
-        <mxCell id="TElpzQ37EK2GMEdwH02I-18" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- storeWithdrawTransaction(TransactionDto): void" vertex="1">
+        <mxCell id="TElpzQ37EK2GMEdwH02I-17" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- createTransactionsTables(): void" vertex="1">
           <mxGeometry height="26" width="280" y="242" as="geometry" />
         </mxCell>
-        <mxCell id="TElpzQ37EK2GMEdwH02I-20" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- storeDepositTransaction(TransactionDto): void" vertex="1">
+        <mxCell id="TElpzQ37EK2GMEdwH02I-18" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- storeWithdrawTransaction(TransactionDto): void" vertex="1">
           <mxGeometry height="26" width="280" y="268" as="geometry" />
         </mxCell>
-        <mxCell id="TElpzQ37EK2GMEdwH02I-19" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- storeTransferTransaction(TransactionDto): void" vertex="1">
+        <mxCell id="TElpzQ37EK2GMEdwH02I-20" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- storeDepositTransaction(TransactionDto): void" vertex="1">
           <mxGeometry height="26" width="280" y="294" as="geometry" />
+        </mxCell>
+        <mxCell id="TElpzQ37EK2GMEdwH02I-19" parent="TElpzQ37EK2GMEdwH02I-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- storeTransferTransaction(TransactionDto): void" vertex="1">
+          <mxGeometry height="26" width="280" y="320" as="geometry" />
         </mxCell>
         <mxCell id="TElpzQ37EK2GMEdwH02I-9" parent="BTwrhteY219l-eWVVQmK-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="securebank.db" vertex="1">
           <mxGeometry height="130" width="100" x="590" y="-720" as="geometry" />
