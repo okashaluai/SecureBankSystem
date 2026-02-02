@@ -623,7 +623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="utils" id="TgDB0d9YSyU8lvrLL6zz">
-    <mxGraphModel dx="1188" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="P4NfdKaVbRbm57oWEp5Z-0" />
         <mxCell id="P4NfdKaVbRbm57oWEp5Z-1" parent="P4NfdKaVbRbm57oWEp5Z-0" />
@@ -757,7 +757,7 @@
           <mxGeometry height="320" width="790.1117136032071" as="geometry" />
         </mxCell>
         <mxCell id="1PX7xMsZZiHY3XKj42xi-17" parent="1PX7xMsZZiHY3XKj42xi-15" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Hashing" vertex="1">
-          <mxGeometry height="11.042391874404448" width="134.48851063829792" x="-0.005141158543679943" y="4.4510329516835325" as="geometry" />
+          <mxGeometry height="11.042391874404448" width="134.48851063829792" x="-32.875141158543684" y="5.001032951683532" as="geometry" />
         </mxCell>
         <mxCell id="1PX7xMsZZiHY3XKj42xi-18" parent="1PX7xMsZZiHY3XKj42xi-15" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IHasher&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ hashPassword(char[]): String&lt;br&gt;+ verifyPassword(String, char[]): boolean&lt;/p&gt;" vertex="1">
           <mxGeometry height="79.35" width="227.16" x="22.84" y="150.65" as="geometry" />
