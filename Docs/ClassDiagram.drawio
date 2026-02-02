@@ -10,9 +10,6 @@
         <mxCell id="29zUYIzSL8G_BcH1UWfX-5" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Service Layer" vertex="1">
           <mxGeometry height="350" width="690" x="70" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="29zUYIzSL8G_BcH1UWfX-6" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Data Access Layer" vertex="1">
-          <mxGeometry height="350" width="690" x="69" y="1240" as="geometry" />
-        </mxCell>
         <mxCell id="29zUYIzSL8G_BcH1UWfX-7" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Logic Layer" vertex="1">
           <mxGeometry height="350" width="690" x="70" y="840" as="geometry" />
         </mxCell>
@@ -622,10 +619,16 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Data Access Layer" id="7D560qwCkaUvCvzSz4W4">
-    <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BTwrhteY219l-eWVVQmK-0" />
         <mxCell id="BTwrhteY219l-eWVVQmK-1" parent="BTwrhteY219l-eWVVQmK-0" />
+        <mxCell id="TElpzQ37EK2GMEdwH02I-0" parent="BTwrhteY219l-eWVVQmK-1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Data Access Layer" vertex="1">
+          <mxGeometry height="380" width="800" y="-1160" as="geometry" />
+        </mxCell>
+        <mxCell id="TElpzQ37EK2GMEdwH02I-1" parent="BTwrhteY219l-eWVVQmK-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IRepository&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getHashedPassword(String): String+ loadBankAccountsIds(String): ArrayList&amp;lt;Long&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ storeBankUser(String, String, String, String): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ storeBankAccount(AccountDto, String): long&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ updateBankAccountBalance(double, long): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteBankAccount(String, long): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteBankUser(String): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ storeBankTransaction(TransactionDto): long&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ storeConnectedUser(String): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteConnectedUser(String): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ isConnectedUser(String): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ isRegisteredUser(String): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getBankUser(String): UserDto&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ isOwnedBankAccount(String, long): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getBankAccount(String, long): AccountDto&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ isRegisteredBankAccount(long): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getBankAccountBalance(long): double&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ clearConnectedUsers(): void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="300" width="480" x="30" y="-1135" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
